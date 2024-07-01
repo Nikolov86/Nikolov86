@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NIkola
 - 👀 I’m interested in Software Testing and Programming
-- 🌱 I’m currently learning QA Engineer at Software University 
+- 🌱 I’m currently studying QA Engineer at Software University 
 - 📫 How to reach me Nikonik@students.softuni.bg
 - ⚡ Fun fact: I`m a Beekeeper.
 
